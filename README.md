@@ -1,6 +1,7 @@
 # Waterimers-
 This is an autonomous lead qualification agent
-Use Case
+
+## Use Case
 
 A fully automated AI sales assistant that:
 
@@ -17,19 +18,19 @@ Updates CRM in Airtable
 Sends Slack notifications
 
 
-Tech Stack
+## Tech Stack
 
-N8N
+# N8N
 
-Claude Sonnet
+# Claude Sonnet
 
-Perplexity API
+# Perplexity API
 
-Airtable
+# Airtable
 
-Slack API
+# Slack API
 
-Webhooks
+# Webhooks
 
 ## Flow
 
